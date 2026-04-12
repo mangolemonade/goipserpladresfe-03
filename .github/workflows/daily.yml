@@ -1,7 +1,7 @@
-name: Repository 3 - Unified Docker Cycle (04:40 AM IST)
+name: Repository 3 - Unified Docker Cycle (03:30 AM IST)
 on:
   schedule:
-    - cron: "10 23 * * *"
+    - cron: "0 22 * * *"
   workflow_dispatch:
 
 concurrency:
